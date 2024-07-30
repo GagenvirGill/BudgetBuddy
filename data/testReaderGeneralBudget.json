@@ -1,0 +1,22 @@
+{
+    "incomes": [
+        {
+            "amount": 10,
+            "name": "ihelp"
+        },
+        {
+            "amount": 20,
+            "name": "ihelp2"
+        }
+    ],
+    "expenses": [
+        {
+            "amount": 12,
+            "name": "ehelp"
+        },
+        {
+            "amount": 16,
+            "name": "ehelp2"
+        }
+    ]
+}
