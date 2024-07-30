@@ -1,4 +1,4 @@
-# My Personal Project
+# BudgetBuddy
 
 ### *What will this application do?*
 
